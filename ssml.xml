@@ -1,0 +1,7 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="my-lang">
+  <voice name="my-voice">
+  	<prosody rate="my-speed">
+      my-sentence
+    </prosody>  
+  </voice>
+</speak>

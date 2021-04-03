@@ -1,0 +1,7 @@
+azure-cognitiveservices-speech==1.16.0
+azure-cognitiveservices-vision-computervision==0.7.0
+azure-cognitiveservices-language-luis==0.7.0
+azure-common==1.1.26
+matplotlib==3.3.4
+Pillow==8.1.2
+streamlit==0.78.0
